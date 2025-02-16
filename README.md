@@ -49,8 +49,8 @@ As a full-stack developer, I specialize in creating powerful, scalable, and effi
 ---
 
 #### 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solidbeatle&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solidbeatle&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberXpulse&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXpulse&layout=compact&theme=radical)  
 
 ---
 
