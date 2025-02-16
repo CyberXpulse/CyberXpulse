@@ -68,6 +68,8 @@ As a full-stack developer, I specialize in creating powerful, scalable, and effi
 
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d9b40fa-9ea0-4c93-b6a5-cee5bf2c12a7/deploy-status)](https://app.netlify.com/sites/cyberxpulse/deploys)
+
 #### 📱 **Follow Me on Discord!**  
 - **Discord Handle**: `gg.cyberz`  
 - **Server Link**: *Coming Soon*  
