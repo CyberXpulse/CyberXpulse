@@ -86,8 +86,12 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
 
 ## 💬 Connect With Me
 
-- **Discord Status:**  
-  ![Discord](https://img.shields.io/badge/Discord-CyberXpulse%231234-5865F2?logo=discord&logoColor=white)
+## ✨ Discord Profile
+<div align="center">
+  <a width="100%" href="https://discord.com/users/1190494698452824152" target="_blank">
+    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/1190494698452824152.png">
+  </a>
+</div>
 
 - **Socials & Contact:**  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CyberXpulse)
