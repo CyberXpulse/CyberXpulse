@@ -87,7 +87,7 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
 ## 💬 Connect With Me
 
 - **Discord Status:**  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1190494698452824152)](https://discord.com/users/1190494698452824152)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1190494698452824152?showDisplayName=true&theme=dark)](https://discord.com/users/1190494698452824152)
 
 - **Socials & Contact:**  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CyberXpulse)
