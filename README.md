@@ -89,7 +89,7 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
 ## ✨ Discord Profile
 <div align="center">
   <a width="100%" href="https://discord.com/users/1190494698452824152" target="_blank">
-    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/1190494698452824152.png">
+    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt="Discord Profile" <iframe src="https://discord.com/widget?id=1313120331271114752&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </a>
 </div>
 
