@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CyberXpulse
+#  Hi, I'm CyberXpulse
 
 Welcome to my GitHub profile!  
 I'm a passionate developer, modder, and tech enthusiast with multi-domain expertise.
@@ -60,15 +60,20 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
 ![CyberXpulse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberXpulse&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXpulse&layout=compact&theme=radical)
 
+## 🌐 Connect with Me
 
-- **Socials & Contact:**  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CyberXpulse)
-  [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-  [![Website](https://img.shields.io/badge/Website-34a853?logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-  [![Steam](https://img.shields.io/badge/Steam-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/id/yoursteamid)
-  [![Matrix](https://img.shields.io/badge/Matrix-1D1D1D?logo=matrix&logoColor=white)](https://matrix.to/#/@yourmatrixid:matrix.org)
+<p align="center">
+  <a href="https://github.com/CyberXpulse"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-34a853?logo=google-chrome&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/yoursteamid"><img src="https://img.shields.io/badge/Steam-171A21?logo=steam&logoColor=white"></a>
+  <a href="https://matrix.to/#/@yourmatrixid:matrix.org"><img src="https://img.shields.io/badge/Matrix-1D1D1D?logo=matrix&logoColor=white"></a>
+</p>
 
+---
 
-**Thanks for visiting!**  
-![Visitor Badge](https://komarev.com/ghpvc/?username=CyberXpulse&color=blue)
+<p align="center">
+  <b>Thanks for visiting!</b><br>
+  <img src="https://komarev.com/ghpvc/?username=CyberXpulse&color=blue" alt="Visitor Badge">
+</p>
