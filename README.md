@@ -55,43 +55,11 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
   ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
   ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white)
 
----
-
-## 🎮 Game & Mod Development
-
-- **Minecraft:**  
-  ![Minecraft](https://img.shields.io/badge/Minecraft-2D2D2D?logo=minecraft&logoColor=white)
-  - Plugin Development: Bukkit, Spigot, Paper
-  - Modding: Forge, Fabric
-  - Client Creation & Custom Launchers
-  - Server Setup & Management
-
-- **FiveM (GTA V):**  
-  ![FiveM](https://img.shields.io/badge/FiveM-FF5500?logo=fivem&logoColor=white)
-  - Lua & JavaScript resource scripting
-  - Server customization & advanced features
-  - Optimization and integration
-
-- **Other:**  
-  - Game automation, cheat dev ethics, anti-cheat, networking, custom tools
-
----
-
 ## 📊 GitHub Stats
 
 ![CyberXpulse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberXpulse&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXpulse&layout=compact&theme=radical)
 
----
-
-## 💬 Connect With Me
-
-## ✨ Discord Profile
-<div align="center">
-  <a width="100%" href="https://discord.com/users/1190494698452824152" target="_blank">
-    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt="Discord Profile" <iframe src="https://discord.com/widget?id=1313120331271114752&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-  </a>
-</div>
 
 - **Socials & Contact:**  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CyberXpulse)
@@ -101,36 +69,6 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
   [![Steam](https://img.shields.io/badge/Steam-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/id/yoursteamid)
   [![Matrix](https://img.shields.io/badge/Matrix-1D1D1D?logo=matrix&logoColor=white)](https://matrix.to/#/@yourmatrixid:matrix.org)
 
----
-
-## 🏆 Highlights
-
-- ⭐ 5+ years of programming experience
-- 🏗️ Built and maintained large-scale projects
-- 🤝 Open to collaboration and new ideas
-- 🔒 Security and privacy advocate
-- 🎓 Always learning & sharing knowledge
-
----
-
-## 🔥 Featured Projects
-
-- Minecraft plugins/mods: [See Projects](#)
-- FiveM resources: [See Projects](#)
-- Cloud/DevOps automation tools: [See Projects](#)
-- Web & API solutions: [See Projects](#)
-
----
 
 **Thanks for visiting!**  
 ![Visitor Badge](https://komarev.com/ghpvc/?username=CyberXpulse&color=blue)
-
----
-
-<details>
-  <summary>✨ Fun Facts</summary>
-
-  - Can code in the dark (literally & figuratively)
-  - Loves coffee, synthwave, and retro games
-  - Automation addict: If it can be automated, it will be!
-</details>
