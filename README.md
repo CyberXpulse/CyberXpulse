@@ -1,4 +1,25 @@
-#  Hi, I'm CyberXpulse
+<!-- Animated "Hi, I'm CyberXpulse" with current color -->
+
+<p align="center">
+  <svg width="420" height="65" viewBox="0 0 420 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .title {
+        font: bold 40px 'Segoe UI', Arial, sans-serif;
+        fill: #ff0057;
+        /* Animate a pulsing effect */
+        animation: pulse 1.5s infinite;
+      }
+      @keyframes pulse {
+        0%   { fill: #ff0057; filter: drop-shadow(0 0 0 #ff0057);}
+        50%  { fill: #fd267d; filter: drop-shadow(0 0 6px #ff0057);}
+        100% { fill: #ff0057; filter: drop-shadow(0 0 0 #ff0057);}
+      }
+    </style>
+    <text x="50%" y="50%" class="title" dominant-baseline="middle" text-anchor="middle">
+      Hi, I'm CyberXpulse
+    </text>
+  </svg>
+</p>
 
 Welcome to my GitHub profile!  
 I'm a passionate developer, modder, and tech enthusiast with multi-domain expertise.
