@@ -59,8 +59,8 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
 
 ## 📊 GitHub Stats
 
-![CyberXpulse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberXpulse&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXpulse&layout=compact&theme=radical)
+![CyberXpulse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberXpulse&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXpulse&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
