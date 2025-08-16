@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CyberXpulse
 
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&background=00000000&width=650&lines=ZoniexStudios+-+Ultimate DevPlatform;Fullstack+Innovation+Hub+%F0%9F%9A%80;AI+%26+Cloud+Solutions+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Open+Source+Ecosystem+%F0%9F%8C%90;Signup+Now+and+Get+Your+Products+%F0%9F%93%9D" alt="Animated Banner" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&background=00000000&width=650&lines=ZoniexStudios+-+Ultimate+DevPlatform;;Fullstack+Innovation+Hub+%F0%9F%9A%80;AI+%26+Cloud+Solutions+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Open+Source+Ecosystem+%F0%9F%8C%90;Signup+Now+and+Get+Your+Products+%F0%9F%93%9D" alt="Animated Banner" />  
   <br>  
   <a href="https://www.zoniexstudios.com">  
     <img src="https://img.shields.io/badge/Signup%20Now-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Signup Now Badge" />  
