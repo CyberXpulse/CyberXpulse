@@ -1,5 +1,9 @@
+# 👋 Hi, I'm CyberXpulse
+
 <p align="center">
-  <img src="https://www.flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=fluffy-logo&text=Hi%2C%20I%27m%20CyberXpulse" alt="Hi, I'm CyberXpulse">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&background=00000000&width=600&lines=CyberXpulse+-+Crafting+Digital+Realms;Fullstack+Architect+%F0%9F%9B%A0%EF%B8%8F;AI+%26+Cloud+Innovator+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Open+Source+Visionary+%F0%9F%8C%90" alt="Animated Banner" />
+  <br>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin Badge" />
 </p>
 
 Welcome to my GitHub profile!  
