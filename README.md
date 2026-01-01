@@ -1,15 +1,7 @@
 # 👋 Hi, I'm CyberXpulse
 
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&background=00000000&width=650&lines=ZoniexStudios+-+Ultimate+DevPlatform;Fullstack+Innovation+Hub+%F0%9F%9A%80;AI+%26+Cloud+Solutions+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Open+Source+Ecosystem+%F0%9F%8C%90;Signup+Now+and+Get+Your+Products+%F0%9F%93%9D" alt="Animated Banner" />  
-  <br>  
-  <a href="https://www.zoniexstudios.com">  
-    <img src="https://img.shields.io/badge/Signup%20Now-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Signup Now Badge" />  
-  <br><br>  
-  <img  
-src="https://img.shields.io/badge/www.zoniexstudios.com-1E90FF?style=flat-square&logo=react&logoColor=white" alt="https://www.zoniexstudios.com" />  
-  <img src="https://img.shields.io/badge/ZONIEXLABS - DevStudio-32CD32?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" />  
-</p>
+
 Welcome to my GitHub profile!  
 I'm a passionate developer, modder, and tech enthusiast with multi-domain expertise.
 
@@ -65,21 +57,14 @@ I'm a passionate developer, modder, and tech enthusiast with multi-domain expert
   ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
   ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white)
 
-## 📊 GitHub Stats
-
-![CyberXpulse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberXpulse&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXpulse&layout=compact&theme=tokyonight)
-
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/CyberXpulse"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-34a853?logo=google-chrome&logoColor=white"></a>
-  <a href="https://steamcommunity.com/id/yoursteamid"><img src="https://img.shields.io/badge/Steam-171A21?logo=steam&logoColor=white"></a>
-  <a href="https://matrix.to/#/@yourmatrixid:matrix.org"><img src="https://img.shields.io/badge/Matrix-1D1D1D?logo=matrix&logoColor=white"></a>
-</p>
+  <a href="https://zoniex.zapto.org"><img src="https://img.shields.io/badge/Website-34a853?logo=google-chrome&logoColor=white"></a>
+
 
 ---
 
