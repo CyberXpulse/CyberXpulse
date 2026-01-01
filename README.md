@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CyberXpulse
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1455386308083187838/1455386956174463263/1767060223840.jpg?ex=69572d3a&is=6955dbba&hm=4833c1ceb18b9d4762e2b5a2d2f8eaba22b2eb11f51a65ff971661922e1d2457&=&width=1100&height=482" alt="Banner" width="1100" height="482" />
+  <img src="https://media.discordapp.net/attachments/1455386308083187838/1456123788684165272/1767060223840_1.png?ex=69573874&is=6955e6f4&hm=b040e44c6c52417547dbe583044a634f0c29ad6c698e5da060a0a1e7ed840173&=&width=624&height=274" alt="Banner" width="1100" height="482" />
 </p>
 
 ---
