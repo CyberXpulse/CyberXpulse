@@ -5,6 +5,8 @@
 Welcome to my GitHub profile!  
 I'm a passionate developer, modder, and tech enthusiast with multi-domain expertise.
 
+https://media.discordapp.net/attachments/1455386308083187838/1455386956174463263/1767060223840.jpg?ex=69572d3a&is=6955dbba&hm=4833c1ceb18b9d4762e2b5a2d2f8eaba22b2eb11f51a65ff971661922e1d2457&=&width=1100&height=482
+
 ---
 
 ## 🦾 About Me
