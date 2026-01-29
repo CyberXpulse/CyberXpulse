@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CyberXpulse
 
 <p align="center">
-  <img src="assets/banner.png" alt="Project Logo" width="200"/>
+  <img src="assets/file_00000000579472099f02dcd0ca434be0.png" alt="Project Logo" width="200"/>
 </p>
 
 ---
