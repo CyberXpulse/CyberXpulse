@@ -26,6 +26,12 @@ Modern application development focused on performance, minimal design, and scala
 
 ---
 
+### For Hire
+
+📧 **Contact:** contact@zoniexlabs.xyz
+
+---
+
 <p align="center">
   Clean design • Efficient systems • Modern experiences
 </p>
