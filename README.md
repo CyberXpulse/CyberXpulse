@@ -8,10 +8,21 @@ Modern application development focused on performance, minimal design, and scala
 
 ---
 
-### Stack
+### Tech Stack
 
+**Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,electron,docker,github,java,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,java,python,javascript,typescript" />
+</p>
+
+**Backend & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,docker,nginx,postgres,mongodb,redis" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,git" />
 </p>
 
 ---
