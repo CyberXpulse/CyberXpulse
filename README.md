@@ -37,9 +37,22 @@ Modern application development focused on performance, minimal design, and scala
 
 ---
 
-### For Hire
+### 🎯 For Hire
 
-📧 **Contact:** contact@zoniexlabs.xyz
+<p align="center">
+  <strong>✨ Available for freelance & contract work</strong>
+</p>
+
+I'm passionate about building exceptional digital experiences. Whether you need:
+- Custom mobile or web applications
+- UI/UX design & optimization
+- Backend infrastructure & APIs
+- Full-stack development solutions
+
+Let's collaborate and create something amazing together!
+
+📧 **Contact:** contact@zoniexlabs.xyz  
+🌐 **Portfolio:** [Visit My GitHub](https://github.com/CyberXpulse)
 
 ---
 
