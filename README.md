@@ -11,7 +11,7 @@ Modern application development focused on performance, minimal design, and scala
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,electron,docker,github,java" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,electron,docker,github,java,python" />
 </p>
 
 ---
