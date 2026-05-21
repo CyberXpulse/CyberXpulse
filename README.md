@@ -1,7 +1,7 @@
 # Hi, I'm CyberXpulse
 
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="75%" />
 </p>
 
 Modern application development focused on performance, minimal design, and scalable experiences.
