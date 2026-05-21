@@ -22,7 +22,7 @@ Modern application development focused on performance, minimal design, and scala
 
 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,git" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,git,intellij" />
 </p>
 
 ---
