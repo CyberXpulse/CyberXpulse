@@ -55,9 +55,5 @@ Let's collaborate and create something amazing together!
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spotify,discord,bluesky" />
-</p>
-
-<p align="center">
   Clean design • Efficient systems • Modern experiences
 </p>
