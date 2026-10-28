@@ -57,3 +57,9 @@ Let's collaborate and create something amazing together!
 <p align="center">
   Clean design • Efficient systems • Modern experiences
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberxpulse&show_icons=true&locale=en&layout=compact" alt="cyberxpulse" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberxpulse&show_icons=true&locale=en" alt="cyberxpulse" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberxpulse&" alt="cyberxpulse" /></p>
